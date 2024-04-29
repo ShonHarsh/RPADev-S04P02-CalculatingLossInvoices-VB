@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S04P02 Calculating Loss Invoices
 
 This project is my solution in **VB** to the **Calculating Loss Invoices** practice found in section 04 practice 02 of the UiPath - RPA Developer Foundation course.
@@ -34,7 +34,19 @@ Check which of the invoices in an Excel file were issued to clients in bankruptc
 ### Sample Output
 
 ```
-
+04/29/2024 15:57:48 => [Debug] Debug started for file: Main
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB execution started
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.Begin;
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.Print;
+[Agitude, 750]
+[Cryptomba, 730]
+[Epiloo, 2180]
+[Teamatix, 350]
+[Travels Print, 570]
+[Unit&Products Inc., 1305]
+The total amount lost from all invoices: 5885
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.End;
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB execution ended in: 00:00:00
 ```
 
 ### Notes
