@@ -1,0 +1,13 @@
+04/29/2024 15:57:48 => [Debug] Debug started for file: Main
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB execution started
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.Begin;
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.Print;
+[Agitude, 750]
+[Cryptomba, 730]
+[Epiloo, 2180]
+[Teamatix, 350]
+[Travels Print, 570]
+[Unit&Products Inc., 1305]
+The total amount lost from all invoices: 5885
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB.Main.End;
+04/29/2024 15:57:48 => [Info] RPADev-S04P02-CalculatingLossInvoices-VB execution ended in: 00:00:00
